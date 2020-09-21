@@ -1,0 +1,28 @@
+
+Why Big Data?
+
+Big data analyze, captures, stores, and extracts information from data-sets that are either too large or too complex to deal with. Since its inception, big data had been associated with volume, variety and velocity.
+
+
+Advantages of Big Data
+
+Cost Saving Time Reduction Increased Efficiency and Productivity Safety and Security Fraud Detection
+
+
+Implications of Big Data
+
+Amazon: Amazon uses Big data extensively for personalized recommendation system, one-click ordering, anticipatory shipping model, supply chain optimization, price optimization and amazon web services. Solving Big data challenges using Data Lakes - The Galaxy data lake was built in 2019 and data is being moved into it. Amazon uses data lake which is a centralized secure repository to store, govern, discover and share all the structured and unstructured data. Lake formation helps to collect and catalog data from databases and object storage, move the data into new S3 data lake. The data is then cleaned and classified using ML algorithms.
+
+Starbucks: Starbucks uses Big data and consumer metrics in real-time to deliver targeted service options. Speeding up order and service times during busiest hours. Data from Starbucks' rewards programs and mobile app provide information pertaining to customers' habits and buying preferences.
+
+
+Top Companies Storing Big Data
+
+LinkedIn: LinkedIn has an extensive tech stack comprising of Apache Hadoop, Apache Hive, Apache Kafka, Azkaban, Apache Avro, Apache Pig, RHEL, Apache DataFu, RHEL and Sun's JDK. LinkedIn currently uses: 800 Westmere-bases HP SL 170x having 24 GB RAM and six 2 TB hard disks. 1900 Westmere-based SuperMicro X8DTT-H having 24 GB RAM and six 2 TB hard disks. 1400 Sandy Bridge-based SuperMicro having 32 GB RAM and six 2 TB hard disks
+
+Adobe: Adobe has 30 nodes in its cluster to store Big data and is currently planning to deploy 80 nodes cluster.
+
+Facebook: Facebook has 2 main clusters - One is 1100 node cluster having 8800 cores and 12 Pentabyte storage. The second one being 300 node cluster having 2400 cores and 3 Pentabyte storage. Fox Audience Network
+Network has 140 nodes in its cluster which includes 3 clusters - 40 nodes cluster having 320 cores and 2 TB hard disks, 70 nodes cluster having 540 cores and 3 TB hard disk, 30 nodes cluster having 240 cores and 4 TB hard disk.
+
+Yahoo: Yahoo uses Apache Hadoop and Apache Pig on more than 40,000 computers for Ad systems, web search and scaling tests. Yahoo has world's biggest cluster having 4500 nodes, 16 GB RAM and 4 one TB storage.
